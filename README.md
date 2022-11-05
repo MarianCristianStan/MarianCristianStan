@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarianCristianStan
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning and studying
 - 📫 How to reach me ? marian.cristian.stan11@gmail.com
 
 <!---
