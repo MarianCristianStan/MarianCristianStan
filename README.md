@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @MarianCristianStan
-- 🌱 I’m currently learning and studying
-- 📫 How to reach me? marian.cristian.stan11@gmail.com
+# Hi, I'm Marian 👋
 
-<!---
-MarianCristianStan/MarianCristianStan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Master's student in Cybersecurity and Quantum Physics.
+
+I enjoy building projects across different areas of software development, including web applications, cybersecurity, games, and experimental projects.
+
+## Interests
+
+- Cybersecurity
+- Software Engineering
+- Game Development
+- Quantum Computing & Quantum Physics
+- Game Development
+- 
+Cybersecurity` · `Web Development` · `Game Development` · `Software Engineering`
+
+## Contact
+
+[Email](mailto:marian.cristian.stan11@gmail.com)
