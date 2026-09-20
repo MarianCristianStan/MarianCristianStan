@@ -12,7 +12,7 @@ I enjoy building projects across different areas of software development, includ
 - Quantum Computing & Quantum Physics
 - Game Development
 - 
-'Cybersecurity` · `Web Development` · `Game Development` · `Software Engineering`
+`Cybersecurity` · `Web Development` · `Game Development` · `Software Engineering`
 
 ## Contact
 
