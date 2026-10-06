@@ -1,6 +1,6 @@
 # Hi, I'm Marian 👋
 
-Computer Engineering graduate and Master's student in **Cybersecurity and Quantum Physics**, with a strong interest in software development, cybersecurity, game development, and emerging technologies.
+Computer Engineering graduate and Master's student in **Cybersecurity and Quantum Physics**.
 
 I have experience working with **Java, C#, .NET, C++, MS SQL Server, Git, and Jira**, gained through academic and personal projects. I'm focused on building practical software solutions while continuously expanding my knowledge across different areas of software engineering.
 
