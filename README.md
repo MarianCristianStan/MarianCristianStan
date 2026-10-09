@@ -1,24 +1,26 @@
 # Hi, I'm Marian 👋
 
-Computer Engineering graduate and Master's student in **Cybersecurity and Quantum Physics**.
+I'm a Computer Engineering graduate and currently a Master's student in **Cybersecurity and Quantum Technologies**.
 
-I have experience working with **Java, C#, .NET, C++, MS SQL Server, Git, and Jira**, gained through academic and personal projects. I'm focused on building practical software solutions while continuously expanding my knowledge across different areas of software engineering.
+I really enjoy building software that solves practical problems—mostly focusing on backend services, clean architecture, and application security. My go-to stack centers around **C# and .NET**, but I also work with **Python, Java, and C++**, and occasionally tinker with **React** whenever I need it.
 
-Currently, I'm collaborating with a small team of friends on the development of a **video game**!
+Beyond software development, I'm also passionate about **computer hardware**. I enjoy building and configuring custom PCs and workstations, optimizing system performance, and troubleshooting hardware and software issues. Whether it's debugging a tricky problem or figuring out why something isn't working as expected.
 
-## Interests
+Currently, I'm also teaming up with a few friends to develop an indie video game! 🎮
 
-- 🔐 **Cybersecurity**
-- 👨‍💻 **Software Engineering**
-- 🌐 **Web Development**
-- 🎮 **Game Development**
-- ⚙️ **Computer Hardware, PC Building & Troubleshooting**
-- ⚛️ **Quantum Computing & Quantum Physics**
+---
 
-## Portfolio
+### 🌱 Things I Enjoy & Explore
+- 🔐 Secure coding & DevSecOps
+- ⚙️ Backend systems & RESTful API design
+- 🎮 Game development & creative logic
+- 🖥️ PC building and hardware troubleshooting
+- ⚛️ Quantum technologies
 
-🌐 **[View my portfolio](https://portfolio.mariancristiantech.ro/)**
+---
 
-## Contact
+### 📬 Let's Connect
+- 🌐 [My Portfolio Website](https://portfolio.mariancristiantech.ro)
+- ✉️ [marian.cristian.stan11@gmail.com](mailto:marian.cristian.stan11@gmail.com)
 
-📧 **Email:** marian.cristian.stan11@gmail.com
+*Always happy to chat about software engineering, interesting side projects, or tech in general!*
